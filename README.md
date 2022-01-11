@@ -1,6 +1,5 @@
 # Avira
 Download Avira Free Antivirus
-Award-winning protection for Windows, Mac, Android, and iOS.
 
 ### Our technology
 To stay ahead, our multi-layered security harnesses the power of cloud technology, machine learning, and artificial intelligence. 
@@ -85,3 +84,6 @@ Unlimited VPN for secure and anonymous browsing with Avira Prime.
 Mail Protection scans all emails for infected attachments, phishing links, and spam.
 
 VIP Customer Support via email and phone.
+
+
+# Award-winning protection for Windows, Mac, Android, and iOS.
