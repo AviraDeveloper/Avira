@@ -1,5 +1,5 @@
 # Avira
-Download Avira Free Antivirus
+###  Download Avira Free Antivirus. Award-winning protection for Windows, Mac, Android, and iOS.
 
 ### Our technology
 To stay ahead, our multi-layered security harnesses the power of cloud technology, machine learning, and artificial intelligence. 
@@ -85,5 +85,3 @@ Mail Protection scans all emails for infected attachments, phishing links, and s
 
 VIP Customer Support via email and phone.
 
-
-# Award-winning protection for Windows, Mac, Android, and iOS.
